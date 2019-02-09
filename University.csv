@@ -1,0 +1,76 @@
+	school_name	City	State	highschool_gpa	sat_avg	Region	starting_meadian_salary	mid_career_median_salary	mid_career_10th_percentile_salary	mid_career_25th_percentile_salary	mid_career_75th_percentile_salary	mid_career_90th_percentile_salary
+0	Princeton University	Princeton	NJ	3.9	1400.0	Northeastern	66500.0	131000.0	68900.0	100000.0	190000.0	261000.0
+1	Harvard University	Cambridge	MA	4.0	1430.0	Northeastern	63400.0	124000.0	54800.0	86200.0	179000.0	288000.0
+2	Yale University	New Haven	CT	3.6	1420.0	Northeastern	59100.0	126000.0	58000.0	80600.0	198000.0	326000.0
+3	Columbia University	New York	NY	3.6	1430.0	Northeastern	59400.0	107000.0	50300.0	71900.0	161000.0	241000.0
+4	Stanford University	Stanford	CA	3.6	1380.0	California	70400.0	129000.0	68400.0	93100.0	184000.0	257000.0
+5	University of Pennsylvania	Philadelphia	PA	3.9	1380.0	Northeastern	60900.0	120000.0	55900.0	79200.0	192000.0	282000.0
+6	Duke University	Durham	NC	3.6	1380.0	Southern	58900.0	106000.0	56000.0	77400.0	149000.0	218000.0
+7	Dartmouth College	Hanover	NH	3.6	1350.0	Northeastern	58000.0	134000.0	63100.0	90200.0	234000.0	321000.0
+8	Northwestern University	Evanston	IL	3.6	1400.0	Midwestern	52700.0	95900.0	51900.0	69100.0	144000.0	205000.0
+9	Brown University	Providence	RI	3.6	1370.0	Northeastern	56200.0	109000.0	55400.0	74400.0	159000.0	228000.0
+10	Cornell University	Ithaca	NY	3.6	1330.0	Northeastern	60300.0	110000.0	56800.0	79800.0	160000.0	210000.0
+11	Rice University	Houston	TX	3.6	1410.0	Southern	64000.0	110000.0	55900.0	82100.0	141000.0	216000.0
+12	Vanderbilt University	Nashville	TN	3.8	1420.0	Southern	51200.0	104000.0	49900.0	68100.0	147000.0	222000.0
+13	University of Notre Dame	Notre Dame	IN	3.6	1350.0	Midwestern	56300.0	116000.0	66400.0	85100.0	163000.0	235000.0
+14	Georgetown University	Washington	DC	3.6	1320.0	Southern	55000.0	110000.0	60300.0	85800.0	174000.0	248000.0
+15	Emory University	Atlanta	GA	3.7	1290.0	Southern	52000.0	91600.0	52500.0	63300.0	128000.0	192000.0
+16	Boston College	Chestnut Hill	MA	3.6	1260.0	Northeastern	52700.0	103000.0	48900.0	70000.0	143000.0	195000.0
+17	Georgia Institute of Technology	Atlanta	GA	3.9	1320.0	Southern	58300.0	106000.0	67200.0	85200.0	137000.0	183000.0
+18	Boston University	Boston	MA	3.6	1220.0	Northeastern	49000.0	93900.0	48000.0	64900.0	130000.0	193000.0
+19	Case Western Reserve University	Cleveland	OH	3.6	1280.0	Midwestern	56200.0	96500.0	54900.0	76500.0	123000.0	168000.0
+20	Northeastern University	Boston	MA	3.6	1330.0	Northeastern	50500.0	86400.0	47100.0	62700.0	117000.0	159000.0
+21	Tulane University	New Orleans	LA	3.5	1250.0	Southern	49100.0	95800.0	46500.0	64400.0	134000.0	185000.0
+22	Lehigh University	Bethlehem	PA	3.6	1230.0	Northeastern	59200.0	105000.0	69500.0	85000.0	160000.0	229000.0
+23	Villanova University	Villanova	PA	3.7	1220.0	Northeastern	55800.0	101000.0	56800.0	76200.0	156000.0	226000.0
+24	Fordham University	New York	NY	3.6	1170.0	Northeastern	47800.0	99900.0	48600.0	65900.0	142000.0	198000.0
+25	Syracuse University	Syracuse	NY	3.6	1090.0	Northeastern	45700.0	85900.0	46400.0	59400.0	119000.0	178000.0
+26	Clemson University	Clemson	SC	4.0	1150.0	Southern	48400.0	86000.0	50500.0	61800.0	111000.0	150000.0
+27	Stevens Institute of Technology	Hoboken	NJ	3.8	1260.0	Northeastern	60600.0	105000.0	68700.0	81900.0	138000.0	185000.0
+28	Baylor University	Waco	TX	3.6	1120.0	Southern	48300.0	88600.0	46300.0	60700.0	130000.0	200000.0
+29	Colorado School of Mines	Golden	CO	3.8	1250.0	Western	58100.0	106000.0	62200.0	87900.0	142000.0	201000.0
+30	University of Delaware	Newark	DE	3.7	1090.0	Southern	45900.0	84500.0	44500.0	64000.0	119000.0	165000.0
+31	University of Tulsa	Tulsa	OK	3.9	1120.0	Southern	42400.0	88700.0	42300.0	60300.0	120000.0	197000.0
+32	Marquette University	Milwaukee	WI	3.6	1040.0	Midwestern	48500.0	88400.0	49500.0	67400.0	121000.0	184000.0
+33	Drexel University	Philadelphia	PA	3.7	1080.0	Northeastern	53400.0	93500.0	54900.0	72500.0	122000.0	161000.0
+34	University of Oklahoma	Norman	OK	3.6	1060.0	Southern	44700.0	82900.0	41200.0	60300.0	114000.0	167000.0
+35	Auburn University	Auburn	AL	3.9	1060.0	Southern	45400.0	84700.0	45400.0	62700.0	109000.0	145000.0
+36	University of Oregon	Eugene	OR	3.6	980.0	Western	42200.0	78400.0	38100.0	56200.0	117000.0	186000.0
+37	University of South Carolina	Columbia	SC	3.6	1120.0	Southern	40000.0	71700.0	36300.0	49900.0	98400.0	131000.0
+38	University of Tennessee	Knoxville	TN	3.9	1040.0	Southern	43800.0	74600.0	41900.0	53200.0	106000.0	153000.0
+39	Howard University	Washington	DC	3.5	1040.0	Southern	46900.0	81800.0	43300.0	60000.0	109000.0	138000.0
+40	University of Utah	Salt Lake City	UT	3.6	1050.0	Western	45400.0	83200.0	43000.0	58400.0	116000.0	148000.0
+41	Iowa State University	Ames	IA	3.6	980.0	Midwestern	45400.0	84600.0	44400.0	60000.0	109000.0	147000.0
+42	University of Kansas	Lawrence	KS	3.6		Midwestern	42400.0	81600.0	44800.0	57200.0	115000.0	156000.0
+43	DePaul University	Chicago	IL	3.6	1030.0	Midwestern	46400.0	84800.0	50300.0	63900.0	115000.0	160000.0
+44	Duquesne University	Pittsburgh	PA	3.7	1055.0	Northeastern	40700.0	84400.0	42600.0	59500.0	107000.0	131000.0
+45	Seton Hall University	South Orange	NJ	3.6	1070.0	Northeastern	48900.0	89200.0	55700.0	70600.0	133000.0	195000.0
+46	University of Arizona	Tucson	AZ	3.5	970.0	Western	47500.0	86100.0	44800.0	61700.0	117000.0	160000.0
+47	Hofstra University	Hempstead	NY	3.6	1070.0	Northeastern	46800.0	92700.0	48900.0	67000.0	135000.0	189000.0
+48	University of Arkansas	Fayetteville	AR	3.7	1010.0	Southern	44100.0	82800.0	43200.0	60700.0	113000.0	160000.0
+49	George Mason University	Fairfax	VA	3.7	1060.0	Southern	47800.0	86900.0	51300.0	67200.0	114000.0	150000.0
+50	University of Mississippi	University	MS	3.6	1000.0	Southern	41400.0	79700.0	40400.0	53500.0	108000.0	186000.0
+51	Adelphi University	Garden City	NY	3.6	1010.0	Northeastern	40600.0	79200.0	44200.0	54800.0	114000.0	160000.0
+52	Ohio University	Athens	OH	3.5	990.0	Midwestern	42200.0	73400.0	36600.0	52800.0	106000.0	150000.0
+53	Oklahoma State University	Stillwater	OK	3.5	970.0	Southern	42800.0	80700.0	40100.0	56500.0	114000.0	151000.0
+54	Illinois State University	Normal	IL	3.4		Midwestern	42000.0	73400.0	39100.0	55200.0	105000.0	142000.0
+55	University of Idaho	Moscow	ID	3.4	930.0	Western	44900.0	82000.0	43000.0	56700.0	104000.0	142000.0
+56	Kent State University	Kent	OH	3.4	950.0	Midwestern	38700.0	62600.0	36100.0	45800.0	87000.0	124000.0
+57	Suffolk University	Boston	MA	3.2	910.0	Northeastern	42100.0	74000.0	48700.0	57800.0	95100.0	145000.0
+58	Pace University	New York	NY	3.3	940.0	Northeastern	53200.0	89700.0	44200.0	65400.0	129000.0	187000.0
+59	University of North Dakota	Grand Forks	ND	3.4	960.0	Midwestern	44000.0	80600.0	43400.0	56400.0	111000.0	157000.0
+60	Widener University	Chester	PA	3.5	930.0	Northeastern	52900.0	83400.0	42600.0	61400.0	106000.0	138000.0
+61	New Mexico State University	Las Cruces	NM	3.5	820.0	Western	44300.0	79500.0	37400.0	53800.0	102000.0	131000.0
+62	Bowling Green State University	Bowling Green	OH	3.4	920.0	Midwestern	39800.0	72100.0	38200.0	51800.0	101000.0	146000.0
+63	Dallas Baptist University	Dallas	TX	3.7	1030.0	Southern	39400.0	60200.0	38500.0	50300.0	81800.0	98100.0
+64	University of Montana	Missoula	MT	3.3	950.0	Western	37300.0	71900.0	37000.0	51500.0	96400.0	138000.0
+65	Utah State University	Logan	UT	3.5	980.0	Western	43800.0	78700.0	41600.0	55400.0	101000.0	132000.0
+66	Georgia State University	Atlanta	GA	3.4	950.0	Southern	41800.0	74000.0	43000.0	55300.0	99900.0	145000.0
+67	Wayne State University	Detroit	MI	3.4	983.0	Midwestern	42800.0	76100.0	40100.0	56200.0	101000.0	139000.0
+68	Cleveland State University	Cleveland	OH	3.3	890.0	Midwestern	43500.0	73100.0	39500.0	51600.0	97000.0	137000.0
+69	Eastern Michigan University	Ypsilanti	MI	3.3	910.0	Midwestern	40300.0	72100.0	37900.0	52800.0	95400.0	135000.0
+70	Lamar University	Beaumont	TX	3.2	860.0	Southern	46500.0	79400.0	38700.0	51600.0	114000.0	158000.0
+71	Tennessee Technological University	Cookeville	TN	3.6	960.0	Southern	46200.0	80000.0	42100.0	62600.0	99500.0	121000.0
+72	University of Akron	Akron	OH	3.3	910.0	Midwestern	41100.0	70300.0	40600.0	53300.0	95200.0	127000.0
+73	University of Toledo	Toledo	OH	3.4	920.0	Midwestern	43100.0	75900.0	40100.0	54100.0	100000.0	133000.0
+74	Idaho State University	Pocatello	ID	3.6		Western	44900.0	73400.0	35400.0	49600.0	101000.0	143000.0
